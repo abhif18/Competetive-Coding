@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1451331222 source:d:\acdemics\coding ground\funny string\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434054219 source:c:\users\abhishek\desktop\coding ground\crmpt2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

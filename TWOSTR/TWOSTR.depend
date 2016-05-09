@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1440349616 source:d:\acdemics\coding ground\twostr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

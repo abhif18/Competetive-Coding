@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434912697 source:c:\users\abhishek\desktop\coding ground\string permutions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

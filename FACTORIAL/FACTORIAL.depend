@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1435322583 source:c:\users\abhishek\desktop\coding ground\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1434268918 source:c:\users\abhishek\desktop\coding ground\factorial\mult.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1435322583 source:d:\acdemics\coding ground\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1434268918 source:d:\acdemics\coding ground\factorial\mult.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

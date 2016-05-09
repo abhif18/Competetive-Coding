@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1439583460 source:d:\acdemics\coding ground\cookmach\main.c
+	<stdio.h>
+	<stdlib.h>
+

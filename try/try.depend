@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1440097489 source:d:\acdemics\coding ground\try\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

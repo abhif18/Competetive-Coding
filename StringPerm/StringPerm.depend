@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1437938333 source:c:\users\abhishek\desktop\coding ground\stringperm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

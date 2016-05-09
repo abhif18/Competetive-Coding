@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1440670304 source:d:\acdemics\coding ground\tricount\main.c
+	<stdio.h>
+	<stdlib.h>
+

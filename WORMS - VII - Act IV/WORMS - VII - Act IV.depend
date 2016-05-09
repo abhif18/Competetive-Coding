@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434828954 source:c:\users\abhishek\desktop\coding ground\worms - vii - act iv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

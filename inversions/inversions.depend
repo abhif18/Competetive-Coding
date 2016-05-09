@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1440099421 source:d:\acdemics\coding ground\inversions\main.c
+	<stdio.h>
+	<stdlib.h>
+
