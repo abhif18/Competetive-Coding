@@ -1,4 +1,4 @@
-*## Competetive-Coding
+*h2 Competetive-Coding
 * Uses R
 * Nine courses
 * Goes from raw data to data products
